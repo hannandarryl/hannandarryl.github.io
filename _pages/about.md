@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I'm a fifth year PhD student and NSF GRFP Fellow at Drexel University. I'm a member of the SPARSE lab supervised by Dr. Edward Kim. My primary research interest is in neuromorphic computing, biologically-inspired learning approaches, and language-vision tasks.
+
 News
 ======
 - June 2023 - I will be joining Pacific Northwest National Laboratory as part of the National Security Internship Program
