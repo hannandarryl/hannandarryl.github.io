@@ -14,7 +14,7 @@ News
 ======
 - June 2023 - I will be joining Pacific Northwest National Laboratory as part of the National Security Internship Program
 - October 2023 - Paper Accepted at IAAI 2023
-- June 2023 - Joined Drexel University as a PhD Student
+- June 2022 - Joined Drexel University as a PhD Student
 
 Publications
 ======
