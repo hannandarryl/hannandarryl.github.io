@@ -10,6 +10,8 @@ redirect_from:
 
 I'm a sixth year PhD candidate and NSF GRFP Fellow at Drexel University where I'm a member of the SPARSE lab supervised by Dr. Edward Kim. My primary research interest is in neuromorphic computing, biologically-inspired learning approaches, and language-vision tasks. I recieved my Master's degree from UNC as a member of the [MURGe-Lab](https://murgelab.cs.unc.edu). My full CV is available [here](../files/CV.pdf).
 
+<p style="text-align: center;">Centered text</p>
+
 News
 ======
 - June 2023 - I will be joining Pacific Northwest National Laboratory as part of the National Security Internship Program
