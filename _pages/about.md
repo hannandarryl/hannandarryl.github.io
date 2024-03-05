@@ -14,6 +14,7 @@ I'm a PhD Intern at Pacific Northwest National Laboratory as part of the Nationa
 
 News
 ======
+- February 2024 - Paper Accepted at ISBI 2024
 - January 2024 - Paper Accepted at SSIAI 2024
 - June 2023 - I will be joining Pacific Northwest National Laboratory as part of the National Security Internship Program
 - October 2023 - Paper Accepted at IAAI 2023
@@ -21,7 +22,10 @@ News
 
 Publications
 ======
-Event-to-Video Conversion for Overhead Object Detection <br>SSIAI 2024<br>
+[Interpretable Models for Detecting and Monitoring Elevated Intracranial Pressure](https://arxiv.org/abs/2403.02236) <br>ISBI 2024<br>
+**Darryl Hannan**, Steven C. Nesbit, Ximing Wen, Glen Smith, Qiao Zhang, Alberto Goffi, Vincent Chan, Michael J. Morris, John C. Hunninghake, Nicholas E. Villalobos, Edward Kim, Rosina O. Weber, and Christopher J. MacLellan
+
+[Event-to-Video Conversion for Overhead Object Detection](https://arxiv.org/abs/2403.02236) <br>SSIAI 2024<br>
 **Darryl Hannan**, Ragib Arnab, Gavin Parpart, Garrett T. Kenyon, Edward Kim, and Yijing Watkins
 
 [MobilePTX: Sparse Coding for Pneumothorax Detection Given Limited Training Examples](https://arxiv.org/abs/2212.03282) <br>IAAI 2023<br>
