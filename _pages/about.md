@@ -25,7 +25,7 @@ Publications
 [Interpretable Models for Detecting and Monitoring Elevated Intracranial Pressure](https://arxiv.org/abs/2403.02236) <br>ISBI 2024<br>
 **Darryl Hannan**, Steven C. Nesbit, Ximing Wen, Glen Smith, Qiao Zhang, Alberto Goffi, Vincent Chan, Michael J. Morris, John C. Hunninghake, Nicholas E. Villalobos, Edward Kim, Rosina O. Weber, and Christopher J. MacLellan
 
-[Event-to-Video Conversion for Overhead Object Detection](https://arxiv.org/abs/2403.02236) <br>SSIAI 2024<br>
+[Event-to-Video Conversion for Overhead Object Detection](https://arxiv.org/abs/2402.06805) <br>SSIAI 2024<br>
 **Darryl Hannan**, Ragib Arnab, Gavin Parpart, Garrett T. Kenyon, Edward Kim, and Yijing Watkins
 
 [MobilePTX: Sparse Coding for Pneumothorax Detection Given Limited Training Examples](https://arxiv.org/abs/2212.03282) <br>IAAI 2023<br>
