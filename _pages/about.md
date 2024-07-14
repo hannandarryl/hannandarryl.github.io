@@ -22,6 +22,9 @@ News
 
 Publications
 ======
+[The Impact of an XAI-Augmented Approach on Binary Classification with Scarce Data](https://arxiv.org/abs/2407.06206) <br>IJCAI XAI Workshop 2024<br>
+Ximing Wen, Rosina O. Weber, Anik Sen, **Darryl Hannan**, Steven C. Nesbit, Vincent Chan, Alberto Goffi, Michael J. Morris, John C. Hunninghake, Nicholas E. Villalobos, Edward Kim, and Christopher J. MacLellan
+
 [Interpretable Models for Detecting and Monitoring Elevated Intracranial Pressure](https://arxiv.org/abs/2403.02236) <br>ISBI 2024<br>
 **Darryl Hannan**, Steven C. Nesbit, Ximing Wen, Glen Smith, Qiao Zhang, Alberto Goffi, Vincent Chan, Michael J. Morris, John C. Hunninghake, Nicholas E. Villalobos, Edward Kim, Rosina O. Weber, and Christopher J. MacLellan
 
