@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Darryl Hannan"
 title_separator          : "-"
 name                     : &name "Darryl Hannan"
-description              : &description "PhD Student at Drexel University"
+description              : &description "Machine Learning Researcher"
 url                      : https://hannandarryl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hannandarryl.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Darryl Hannan"
   avatar           : "profile.JPG"
-  bio              : "PhD Candidate"
-  location         : "San Antonio, TX"
+  bio              : "Machine Learning Researcher"
+  location         : "Seattle, WA"
   employer         : Pacific Northwest National Laboratory
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=WjRBBYYAAAAJ&hl=en"
-  email            : "dwh48@drexel.edu"
+  email            : "darryl.hannan@pnnl.gov"
   researchgate     :
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
