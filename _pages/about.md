@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Intern at Pacific Northwest National Laboratory as part of the National Security Internship Program. I recieved my PhD from Drexel University as an NSF GRFP Fellow and member of the SPARSE lab, supervised by Dr. Edward Kim, and of the [TAIL lab](https://tail.cc.gatech.edu), supervised by Dr. Christopher MacLellan. My primary research interests are in language-vision tasks, neuromorphic computing, and biologically-inspired learning approaches. I recieved my Master's degree from UNC as a member of the [MURGe-Lab](https://murgelab.cs.unc.edu).
+I'm a PhD Intern at Pacific Northwest National Laboratory as part of the National Security Internship Program. I recieved my PhD from Drexel University as a NSF GRFP Fellow and member of the SPARSE and [TAIL](https://tail.cc.gatech.edu) labs. My primary research interests are in language-vision tasks, neuromorphic computing, and biologically-inspired learning approaches. I recieved my Master's degree from UNC as a member of the [MURGe-Lab](https://murgelab.cs.unc.edu).
 
 <p style="text-align: center;"><a href="../files/CV.pdf">FULL CV</a></p>
 
