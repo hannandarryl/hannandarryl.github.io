@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoctoral Research Assistant at Pacific Northwest National Laboratory in the [Foundational Data Science Group](https://www.pnnl.gov/foundational-data-science). I recieved my PhD from Drexel University as a NSF GRFP Fellow and member of the SPARSE and [TAIL](https://tail.cc.gatech.edu) labs. My primary research interests are in language-vision tasks, neuromorphic computing, and biologically-inspired learning approaches. I recieved my Master's degree from UNC as a member of the [MURGe-Lab](https://murgelab.cs.unc.edu).
+I'm a Postdoctoral Research Assistant at Pacific Northwest National Laboratory in the [Foundational Data Science Group](https://www.pnnl.gov/foundational-data-science). I received my PhD from Drexel University as a NSF GRFP Fellow and member of the SPARSE and [TAIL](https://tail.cc.gatech.edu) labs. My primary research interests are in language-vision tasks, spatial reasoning, and biologically-inspired learning approaches. I received my Master's degree from UNC as a member of the [MURGe-Lab](https://murgelab.cs.unc.edu).
 
 <p style="text-align: center;"><a href="../files/CV.pdf">FULL CV</a></p>
 
 News
 ======
+- March 2025 - Paper Accepted at ML4RS ICLR Workshop
+- October 2024 - Joined Pacific Northwest National Laboratory as a Postdoc
 - September 2024 - Graduated from Drexel with Ph.D.
 - February 2024 - Paper Accepted at ISBI 2024
 - January 2024 - Paper Accepted at SSIAI 2024
